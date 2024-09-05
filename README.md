@@ -82,11 +82,11 @@ The wildfire that devastated the Attica region in August 2024 burned approximate
 ### Articles Detailing the Wildfire:
 - **"Wildfires in Greece have burned land twice the size of Manhattan, satellite images reveal"**  
   This article describes the scale of the wildfires that impacted Attica, Greece, and showcases how satellite imagery from Sentinel-2 was used to visualize the extent of the damage.  
-  [Read more here](https://www.space.com/wildfires-greece-satellite-imagery)&#8203;:contentReference[oaicite:0]{index=0}
+  [Read more here](https://www.space.com/wildfires-greece-satellite-imagery)&#8203;
 
 - **"High-resolution satellite image of the Barnabas forest fire"**  
   This article offers high-resolution satellite imagery of the Barnabas forest fire from the European Sentinel-2 satellite, depicting the vast area affected by the wildfire and the active fire fronts as of August 12, 2024.  
-  [Read the full article](https://meteo.gr/article_view.cfm?entryID=3353)&#8203;:contentReference[oaicite:1]{index=1}
+  [Read the full article](https://meteo.gr/article_view.cfm?entryID=3353)&#8203;
 
 These references provide critical insight into the geographical extent and the environmental impact of the wildfire in the Attica region.
 
