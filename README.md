@@ -116,11 +116,11 @@ To load the environment variables from a `.env` file, use the `python-dotenv` li
 - **Articles referenced for wildfire information**:
   - "Wildfires in Greece have burned land twice the size of Manhattan, satellite images reveal"  
     Published on Space.com, this article discusses the 2024 wildfires in the Attica region.  
-    [Read the article](https://www.space.com/wildfires-greece-satellite-imagery)&#8203;:contentReference[oaicite:2]{index=2}
+    [Read the article](https://www.space.com/wildfires-greece-satellite-imagery)&#8203;
   
   - "High-resolution satellite image of the Barnabas forest fire"  
     Published by Meteo.gr, this article details the Barnabas forest fire and includes satellite images from August 12, 2024.  
-    [Read the article](https://meteo.gr/article_view.cfm?entryID=3353)&#8203;:contentReference[oaicite:3]{index=3}
+    [Read the article](https://meteo.gr/article_view.cfm?entryID=3353)&#8203;
 
 ## License
 
